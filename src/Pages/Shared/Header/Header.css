@@ -1,0 +1,17 @@
+.login-btn {
+  border: 1px solid white;
+  border-radius: 35px;
+  color: black;
+  background-color: #ffff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 8px 35px;
+  padding-top: 5;
+}
+.signUp-btn {
+  border: 1px solid #ff6f00;
+  border-radius: 35px;
+  color: white;
+  background-color: #ff6f00;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 3px 20px;
+}
