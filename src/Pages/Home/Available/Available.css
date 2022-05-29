@@ -1,0 +1,12 @@
+.available-btn {
+  border: 1px solid #644f9c;
+  border-radius: 35px;
+  color: white;
+  background-color: #644f9c;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  font-weight: 500;
+  letter-spacing: 0.2ch;
+  font-size: 20px;
+  padding: 4px 80px;
+  margin-top: 20px;
+}
