@@ -1,0 +1,14 @@
+.test-btn {
+  border: 1px solid white;
+  border-radius: 35px;
+  color: black;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 3px 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.test-btn:focus {
+  border: 1px solid #ff6f00;
+  background-color: #ff6f00;
+}
